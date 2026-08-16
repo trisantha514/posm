@@ -1,0 +1,6 @@
+{
+  "name": "WCS Inventory POS",
+  "description": "A high-fidelity Point of Sale and motor spare parts inventory management system, featuring POS billing, barcode searches, stock adjustment, purchasing, customer tracking, expenses, reports, and backup tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
